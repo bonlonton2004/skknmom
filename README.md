@@ -8,9 +8,8 @@
 
 ## 🎯 Tính Năng
 
-### 3 Vai Trò Người Dùng
+### 2 Vai Trò Người Dùng
 - **👦 Học sinh**: Học bài, làm tình huống, nhận huy hiệu
-- **👨‍👩‍👧 Phụ huynh**: Xem tiến độ con, gợi ý đồng hành
 - **👩‍🏫 Giáo viên**: Tài liệu giảng dạy, theo dõi lớp học
 
 ### 4 Module Học Tập
@@ -119,3 +118,4 @@ Mọi đóng góp đều được hoan nghênh! Hãy tạo Pull Request hoặc I
 ---
 
 Made with ❤️ for Vietnamese 3rd graders
+
