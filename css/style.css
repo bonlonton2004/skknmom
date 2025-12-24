@@ -2241,3 +2241,14 @@ button:active {
     font-size: 0.8rem;
     margin-top: 8px;
 }
+
+/* Form Hint */
+.form-hint {
+    font-size: 0.85rem;
+    color: var(--purple);
+    margin-top: 8px;
+    padding: 8px 12px;
+    background: var(--accent-bg);
+    border-radius: var(--radius-sm);
+    border-left: 3px solid var(--accent);
+}

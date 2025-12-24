@@ -119,6 +119,7 @@ function renderRegisterPage() {
                     <div class="form-group" id="teacher-code-group" style="display:none;">
                         <label>Mã xác nhận giáo viên</label>
                         <input type="text" id="reg-teacher-code" placeholder="Nhập mã..." class="form-input">
+                        <p class="form-hint">💡 Gợi ý: Mã là <strong>GVCN2025</strong></p>
                     </div>
                     
                     <div id="reg-error" class="error-message"></div>
